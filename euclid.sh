@@ -36,3 +36,4 @@ while [ "$arg2" -ne 0 ]; do
 done
 
 echo "$arg1"
+
